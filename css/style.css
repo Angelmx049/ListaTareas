@@ -1,0 +1,78 @@
+body {
+    font-family: sans-serif;
+    background-color: #eee;
+    margin: 0;
+    padding: 20px;
+}
+
+.titulo {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.tarea {
+    padding: 8px;
+    font-size: 14px;
+    width: 60%;
+}
+
+.agregar {
+    padding: 8px 12px;
+    font-size: 14px;
+    margin-left: 5px;
+}
+
+.lista-tareas {
+    margin-top: 20px;
+    padding-left: 0;
+}
+
+.lista-tareas li {
+    background-color: #c9a1a1;
+    padding: 8px;
+    margin-bottom: 5px;
+    list-style: none;
+    cursor: pointer;
+}
+body {
+    font-family: sans-serif;
+    background-color: #eee;
+    margin: 0;
+    padding: 20px;
+}
+
+.titulo {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.tarea {
+    padding: 8px;
+    font-size: 14px;
+    width: 60%;
+}
+
+.agregar {
+    padding: 8px 12px;
+    font-size: 14px;
+    margin-left: 5px;
+}
+
+.lista-tareas {
+    margin-top: 20px;
+    padding-left: 0;
+}
+
+.lista-tareas li {
+    background-color: #fff;
+    padding: 8px;
+    margin-bottom: 5px;
+    list-style: none;
+    cursor: pointer;
+}
+
+.lista-tareas li.completada {
+    text-decoration: line-through;
+    color: gray;
+    background-color: #9fd2e6;
+}
